@@ -1,0 +1,11 @@
+https://pages.github.com/
+git subtree push --prefix dist origin gh-pages  comando para agregar un subtree
+
+vercel(no mover nada)
+https://medium.com/swlh/deploying-react-vue-applications-with-vercel-42aa642534d5
+
+netlify no mover nada
+ https://www.netlify.com/with/vue/
+
+firebase
+https://medium.com/@rachidsakara/how-to-deploy-vue-js-applications-with-firebase-hosting-40cfa7f724e4
